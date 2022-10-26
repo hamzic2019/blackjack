@@ -83,10 +83,12 @@ body {
     color:white;
 }
 
-.bank-amoutn-display {
+.bank-amount-display {
     text-align: center;
-    margin-top: 15px;
+    margin-top: 10px;
     color:white;
+    font-size: 40px;
+    font-weight: 500;
 }
 
 
