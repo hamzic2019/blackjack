@@ -54,3 +54,55 @@ let zbir_kuca   = document.querySelector('.zbir-kuca'),
 
         return randomnumber;
     }
+
+
+*****
+    
+    function getRandomCard(){
+        var randomnumber = Math.floor(Math.random() * (52 - 1 + 1)) + 1;
+
+        return randomnumber;
+    }
+function getRandomCard(){
+        var randomnumber = Math.floor(Math.random() * (52 - 1 + 1)) + 1;
+
+        return randomnumber;
+    }
+function getRandomCard(){
+        var randomnumber = Math.floor(Math.random() * (52 - 1 + 1)) + 1;
+
+        return randomnumber;
+    }
+function getRandomCard(){
+        var randomnumber = Math.floor(Math.random() * (52 - 1 + 1)) + 1;
+
+        return randomnumber;
+    }function getRandomCard(){
+        var randomnumber = Math.floor(Math.random() * (52 - 1 + 1)) + 1;
+
+        return randomnumber;
+    }function getRandomCard(){
+        var randomnumber = Math.floor(Math.random() * (52 - 1 + 1)) + 1;
+
+        return randomnumber;
+    }function getRandomCard(){
+        var randomnumber = Math.floor(Math.random() * (52 - 1 + 1)) + 1;
+
+        return randomnumber;
+    }function getRandomCard(){
+        var randomnumber = Math.floor(Math.random() * (52 - 1 + 1)) + 1;
+
+        return randomnumber;
+    }function getRandomCard(){
+        var randomnumber = Math.floor(Math.random() * (52 - 1 + 1)) + 1;
+
+        return randomnumber;
+    }function getRandomCard(){
+        var randomnumber = Math.floor(Math.random() * (52 - 1 + 1)) + 1;
+
+        return randomnumber;
+    }function getRandomCard(){
+        var randomnumber = Math.floor(Math.random() * (52 - 1 + 1)) + 1;
+
+        return randomnumber;
+    }
